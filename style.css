@@ -41,6 +41,8 @@ header img:hover{
     background-color: rgb(221, 221, 221);
 }
 
+
+
 footer{
     position: absolute;
     bottom: 0;
@@ -67,9 +69,13 @@ footer a,p{
 
 .debut{
     padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
 }
 .fin{
     padding-right: 15px;
+    display: flex;
+    flex-wrap: wrap;
 }
 footer p{
     padding-right: 30px;
